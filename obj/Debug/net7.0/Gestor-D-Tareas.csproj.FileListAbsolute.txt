@@ -1,0 +1,14 @@
+D:\Proyectos\C#Console\Proyecto\Gestor-D-Tareas\bin\Debug\net7.0\Gestor-D-Tareas.exe
+D:\Proyectos\C#Console\Proyecto\Gestor-D-Tareas\bin\Debug\net7.0\Gestor-D-Tareas.deps.json
+D:\Proyectos\C#Console\Proyecto\Gestor-D-Tareas\bin\Debug\net7.0\Gestor-D-Tareas.runtimeconfig.json
+D:\Proyectos\C#Console\Proyecto\Gestor-D-Tareas\bin\Debug\net7.0\Gestor-D-Tareas.dll
+D:\Proyectos\C#Console\Proyecto\Gestor-D-Tareas\bin\Debug\net7.0\Gestor-D-Tareas.pdb
+D:\Proyectos\C#Console\Proyecto\Gestor-D-Tareas\obj\Debug\net7.0\Gestor-D-Tareas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\C#Console\Proyecto\Gestor-D-Tareas\obj\Debug\net7.0\Gestor-D-Tareas.AssemblyInfoInputs.cache
+D:\Proyectos\C#Console\Proyecto\Gestor-D-Tareas\obj\Debug\net7.0\Gestor-D-Tareas.AssemblyInfo.cs
+D:\Proyectos\C#Console\Proyecto\Gestor-D-Tareas\obj\Debug\net7.0\Gestor-D-Tareas.csproj.CoreCompileInputs.cache
+D:\Proyectos\C#Console\Proyecto\Gestor-D-Tareas\obj\Debug\net7.0\Gestor-D-Tareas.dll
+D:\Proyectos\C#Console\Proyecto\Gestor-D-Tareas\obj\Debug\net7.0\refint\Gestor-D-Tareas.dll
+D:\Proyectos\C#Console\Proyecto\Gestor-D-Tareas\obj\Debug\net7.0\Gestor-D-Tareas.pdb
+D:\Proyectos\C#Console\Proyecto\Gestor-D-Tareas\obj\Debug\net7.0\Gestor-D-Tareas.genruntimeconfig.cache
+D:\Proyectos\C#Console\Proyecto\Gestor-D-Tareas\obj\Debug\net7.0\ref\Gestor-D-Tareas.dll
